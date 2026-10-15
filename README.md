@@ -98,7 +98,7 @@ Status: CRITICAL
  - Machine 03 is CRITICAL at 91.6°C
 
 Sensor readings saved to:
-data/sensor\\\_data.csv
+data/sensor_data.csv
 Temperature graph generated successfully.
 
 Run another monitoring cycle? (y/n):
