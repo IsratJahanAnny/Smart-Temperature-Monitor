@@ -103,7 +103,9 @@ Temperature graph generated successfully.
 
 Run another monitoring cycle? (y/n):
 ```
+## Temperature Monitoring Graph
 
+![Temperature Monitoring Graph](temperature_graph.png)
 ### Temperature Thresholds
 
 |Status|Range|
